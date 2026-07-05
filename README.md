@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a Lead Automation Engineer, AI enthusiast, and transformational coach.
+
 <!--
 **YuliyaHancharenka/YuliyaHancharenka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
